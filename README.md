@@ -4,9 +4,9 @@ This directory holds transcripts for the ["Awakening From The Meaning Crisis"](h
 
 To use:
 - Open a YouTube Video
-- Click ... on the bottom edge of the video player
+- Click `...` on the bottom edge of the video player
 - Click `Show Transcript`
-- Click F12 or open the Developer Console
+- Hit F12 or open the Developer Console
 - Copy the contents of [download_transcript_min.js](https://github.com/nkhi/buddhism-cogsci-transcript/blob/main/download_transcript_min.js) into the console and press Enter.
 - The title of the video should now be a "Download" link.
 

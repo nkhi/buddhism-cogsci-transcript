@@ -34,10 +34,9 @@
     }
     
     // make download link appear on page
-
-    // down.href=downloadScript();
     videoName = document.getElementsByClassName("title style-scope ytd-video-primary-info-renderer")[0];
-    videoName.innerHTML = "<a download='info.txt' id='downloadlink' style='display: block'>Download</a>";
+    title = videoName.children[0].innerHTML;
+    videoName.innerHTML = "<a download=ep"+title[4]+" id='downloadlink' style='display: block; color: #fcba03;'>Download Video Transcript!</a>";
     videoName.children[0].href=downloadScript();
     console.log("Click the link!");
 })();
