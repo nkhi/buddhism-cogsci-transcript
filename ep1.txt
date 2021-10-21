@@ -1,0 +1,1202 @@
+(00:00) you
+(00:00) [Music]
+(00:12) welcome this is a series in which I am
+(00:16) going to endeavor to put together pretty
+(00:20) much all of my work my name is John burr
+(00:23) of a key I am an assistant professor at
+(00:26) the University of Toronto I'm in the
+(00:28) psychology department and in the
+(00:30) cognitive science program and I also
+(00:32) teach for the Buddhism psychology and
+(00:34) mental health program I've produced a
+(00:36) lot of videos on a lot of various topics
+(00:38) some of you have perhaps seen them but
+(00:41) what I want to do now in this series is
+(00:43) draw it all together and present to you
+(00:45) a overall unified argument and that can
+(00:49) show you the interconnections between
+(00:51) pieces that you might have seen before
+(00:54) now how all this got started is I got
+(00:59) very interested in a particular
+(01:00) phenomenon I got interested in the fact
+(01:02) that there seemed to be a growing
+(01:03) confluence between people who are
+(01:07) interested in Buddhism and people who
+(01:09) are interested in cognitive science I'll
+(01:11) talk a little bit later as we go on what
+(01:13) cognitive science is but you know some
+(01:17) of this already in the world at large
+(01:19) because we're going through what's
+(01:21) called the mindfulness revolution
+(01:22) mindfulness is being spoken of
+(01:24) everywhere I was in a bookstore
+(01:25) yesterday chapters and there's a whole
+(01:28) section just on mindfulness itself so
+(01:31) why is the mindfulness revolution
+(01:33) occurring well it's occurring
+(01:33) particularly because of this
+(01:35) intersection between Buddhism and
+(01:37) cognitive science but why is this
+(01:39) happening and why is it you know so
+(01:42) explosive in nature and what do we mean
+(01:45) by mindfulness some of the work I've
+(01:47) done is trying to get clear about that
+(01:49) we're going to talk about that in this
+(01:51) in this series now there is also a lot
+(01:55) of other things that in my mind seem to
+(01:59) be convergent with this growing
+(02:02) confluence between Buddhism and
+(02:04) cognitive science there is an increasing
+(02:06) interest both academically and in the
+(02:09) public at large and the topic of wisdom
+(02:11) something that people did not talk about
+(02:13) very much not that long ago well the
+(02:16) wisdom is now a very hot topic within
+(02:18) psychology and cognitive
+(02:20) and books offering to train you in
+(02:23) wisdom are again becoming popular same
+(02:26) bookstore experience yesterday I bought
+(02:29) my son a book called how to be a stoic
+(02:32) this is a this is like how is it that a
+(02:36) philosophical position from the
+(02:37) Hellenistic era has become a popular
+(02:40) book that people are seeking why is
+(02:43) there this hunger for wisdom and why are
+(02:47) people meeting it with these kinds of
+(02:51) things
+(02:51) the stoicism the philosophies of the
+(02:54) Hellenistic period we're gonna talk
+(02:56) about that I think there's good reason
+(02:57) for that
+(02:59) of course there's increasing academic
+(03:01) and public interest in psychedelics I
+(03:04) just gave a talk earlier this week
+(03:09) Yale about psychedelics and the
+(03:13) increasing interest in psychedelics and
+(03:15) psychedelic experiences you're seeing
+(03:17) radical things with them people can be
+(03:19) released from treatment-resistant
+(03:21) addiction they can overcome
+(03:24) post-traumatic stress disorder like the
+(03:26) normal with the best therapy right
+(03:31) solution rate for people with
+(03:33) post-traumatic stress disorders about
+(03:35) right you know things go really well 20%
+(03:38) or so you introduce psychedelics into
+(03:41) the therapy and you can get the right
+(03:43) the healing rate up to 80 percent so
+(03:47) what's going on there why is there this
+(03:49) interest there's increasing public
+(03:55) interest which is matched by a huge
+(03:59) academic in in the topics of happiness
+(04:02) now we've always been a happiness
+(04:05) oriented culture life liberty and the
+(04:07) pursuit of happiness and so forth right
+(04:09) but it's taken a particularly
+(04:12) interesting turn the topic of meaning
+(04:14) and meaning in life is coming to the
+(04:16) fore people in more and more are talking
+(04:19) about not just sort of sheer
+(04:20) contentedness but what it is for a human
+(04:23) life to be meaningful and it turns out
+(04:26) that meaning in life is terrifically
+(04:29) important it's very predictive of
+(04:31) well-being
+(04:32) it's very predict
+(04:33) of how well you are doing in your life
+(04:36) in general so it is no wonder that our
+(04:38) people are seeking it out now my my
+(04:41) contention and what I'm gonna argue is
+(04:43) it's no coincidence that all of these
+(04:45) things are happening right now it's no
+(04:47) coincidence this confluence between
+(04:49) Buddhism the mindfulness revolution the
+(04:52) interest in wisdom and ancient
+(04:54) philosophies like stoicism the
+(04:57) increasing public interest in
+(04:58) psychedelics and transformative
+(04:59) experiences and mystical experiences
+(05:01) right
+(05:03) the increasing academic and public
+(05:05) interest in meaning in life there's all
+(05:08) a reason for there's there's a unifying
+(05:11) account for why this is happening but
+(05:14) there's another set of things this is
+(05:17) sort of the light side of what I'm
+(05:18) talking about there's a there's a
+(05:20) there's a set of dark factors that seem
+(05:22) to be converging as well right we have
+(05:26) what seems to be although they're you
+(05:29) know people have disputing it but I
+(05:30) think the evidence is becoming clearer
+(05:32) and clearer the CDC just released some
+(05:34) data recently we're going through amount
+(05:36) mental health crisis suicide is spiking
+(05:40) and it's right now there are some
+(05:43) socio-economic factors but there's
+(05:46) clearly other things that are at work
+(05:49) right there's increasing sense many
+(05:53) people are expressing it of losing touch
+(05:55) with reality we encounter more and more
+(05:58) often in individuals and groups nihilism
+(06:01) expressions of cynicism expressions of
+(06:05) deep kinds of frustration and futility
+(06:08) you have the abandonment of trust in any
+(06:12) of our public institutions we're losing
+(06:16) right we've completely lost any sort of
+(06:18) faith or trust in a political system
+(06:20) we're losing faith in our judicial
+(06:22) system right religious affiliation is
+(06:27) declining consistently throughout
+(06:28) people's participation in right clubs
+(06:32) organization is in decline
+(06:38) in general and my co-authors on the book
+(06:43) on zombies in Western culture the 20s
+(06:46) for century crisis Christmas Pietro and
+(06:49) Philip Mis eviction we argued right that
+(06:53) the this sense of being out of touch has
+(06:56) gone on with an increasing sense and
+(06:58) we'll talk about this because I'm going
+(07:00) to use this term technically we're going
+(07:01) to talk about this and Frankfurt's use
+(07:03) of it there's an increasing sense of
+(07:05) more and more
+(07:07) everywhere pervading any of you take a
+(07:12) look at the book we actually chart how
+(07:14) this has been spiking and it's
+(07:16) concordant with all kinds of other
+(07:18) increases in these dark factors people
+(07:23) are getting the sense that we're
+(07:24) spending and you can see this already in
+(07:26) the public media but it's it's also
+(07:29) within the academic world that we're
+(07:31) spending too much time in our virtual
+(07:32) environments there seems to be
+(07:35) increasing evidence for example of right
+(07:39) a connection between various social
+(07:42) media increased depression increased
+(07:44) loneliness and then more in general and
+(07:51) we'll talk about how this shows up a
+(07:53) little bit more implicitly it shows up
+(07:54) in the entertainment we seek and the
+(07:56) mythologies we like like they're zombies
+(07:58) we're gonna talk about that
+(08:00) why are zombies so big right why are
+(08:03) superheroes so big right now right
+(08:06) there's an increase this these
+(08:10) mythological and we'll taco what myth
+(08:12) means these mythological forms I'm gonna
+(08:15) argue our expressions of a cultural
+(08:18) sense a sense that we're stuck somehow
+(08:20) one way you can note that is just by
+(08:22) noting how pervasive almost to the point
+(08:27) of being a constant factor in our
+(08:30) background is people talking about
+(08:31) crisis and collapse apocalypse the
+(08:35) zombie apocalypse the imminent collapse
+(08:38) of civilization all of these things are
+(08:41) now pervasive they're taken for granted
+(08:43) at one point right the you know movies
+(08:48) demonstrating this had to be sort of
+(08:49) science fiction they were considered
+(08:51) radical right
+(08:52) now this is becoming a pervasive
+(08:55) background sense now I think all of
+(08:59) these negative factors also have a
+(09:01) unifying explanation in fact what I'm
+(09:04) going to argue throughout the course of
+(09:07) this series is that the positive factors
+(09:10) and the negative factors all point to a
+(09:16) unified explanation this is going to be
+(09:22) an idea that our culture is experiencing
+(09:29) a profound meaning crisis a crisis in
+(09:31) meaning and we're gonna have to talk
+(09:33) about what does that meaning mean now
+(09:38) I'm not claiming that this is the only
+(09:39) crisis we're facing far from it what I
+(09:41) want to do in fact is talk about how the
+(09:43) meaning crisis is interacting with other
+(09:44) crises the environmental crisis -
+(09:48) socio-economic crisis but in addition to
+(09:51) those which are quite well discussed and
+(09:54) the public at large there is a meaning
+(09:59) crisis which is being discussed quite
+(10:01) significantly with that academia but
+(10:03) needs to be brought to the public at
+(10:04) large
+(10:05) because one of the things I'm going to
+(10:06) argue is that these three crises are not
+(10:08) interesting not independent from each
+(10:10) other they're interdependent in
+(10:11) important ways but what is this meaning
+(10:17) that's coming to crisis why do we hunger
+(10:21) for it how do we cultivate the wisdom
+(10:26) that's what I'm gonna argue wisdom is
+(10:28) ultimately about to generate enhance
+(10:31) this meaning wisdom is about realizing
+(10:33) in both senses of the word becoming
+(10:36) aware and making real it's about wisdom
+(10:39) is about realizing meaning in life in a
+(10:42) profound way how do we cultivate this
+(10:46) wisdom what does it mean and I'm not
+(10:48) going to talk about that just
+(10:49) practically I'm gonna talk of so I mean
+(10:51) not just theoretically I'm gonna talk
+(10:52) about that practically as well what are
+(10:54) some practices that people can engage in
+(10:57) and are engaging in to try and address
+(10:59) this need for the cultivation of wisdom
+(11:03) what role for example
+(11:05) do mindfulness practices play within the
+(11:08) cultivation of wisdom so here's the
+(11:16) three questions that are we're gonna
+(11:17) keep coming back to again and again and
+(11:19) again what is this meaning why do we
+(11:23) hunger for it and how do we cultivate
+(11:26) the wisdom to realize it so some of the
+(11:31) topics of course we're going to be
+(11:32) addressing are centrally the meaning
+(11:35) crisis how did this kind of meaning
+(11:40) evolve what like what is it why is it so
+(11:42) important to the evolution of our
+(11:45) humanity
+(11:46) then more specifically the history of
+(11:49) the meaning crisis why did it arise what
+(11:52) are the historical factors by doing that
+(11:55) we'll get in a historical accounted
+(11:57) meaning we'll get a sense of what this
+(11:58) meaning is that has come into crisis
+(12:00) that people individually feel they are
+(12:03) lacking or losing in their lives we want
+(12:09) to talk about connections between
+(12:10) meaning wisdom and importantly self
+(12:13) transcendence it's going to turn out
+(12:15) that this notion of self transcendence
+(12:17) again which will have to develop and
+(12:18) explicate be something that's a core
+(12:21) need because it performs core functions
+(12:23) for human beings and to bound up with
+(12:25) these ideas of wisdom and of course
+(12:29) meaning and along the way in fact right
+(12:32) from the beginning we're going to start
+(12:34) to see that there's deep connections
+(12:35) between meaning wisdom self
+(12:37) transcendence and altered states of
+(12:40) consciousness why do human beings seek
+(12:44) to alter their consciousness in fact not
+(12:47) just human beings are there intelligent
+(12:48) organisms seek to do this right
+(12:51) Caledonian crows will tumble down rubes
+(12:54) in order to make themselves dizzy for no
+(12:56) other purpose than to alter their state
+(12:58) of consciousness what is going on why
+(13:01) does intelligence need to be conjoined
+(13:05) to an altered state of consciousness and
+(13:07) why in particular have human beings
+(13:08) developed very sophisticated processes
+(13:12) for generating harnessing and
+(13:14) interpreting these altered states of
+(13:16) consciousness
+(13:17) we're gonna talk about that in
+(13:19) connection with shamanism and ritual
+(13:23) we're gonna talk about that in
+(13:25) connection to the flow state this is
+(13:26) when you're in the zone and why people
+(13:29) seek it and why it's so powerful we're
+(13:32) gonna talk about it as I mentioned in
+(13:34) connection with psychedelic experiences
+(13:36) more importantly the mystical
+(13:38) experiences that can occur within some
+(13:41) psychedelic experience because it turns
+(13:43) out it's the mystical experience that is
+(13:45) more important and transformative but
+(13:47) there's a subset of those mystical
+(13:49) experiences that are very crucial these
+(13:52) are awakening experiences these are
+(13:55) experiences in which people come back
+(13:57) from the mystical experience and say
+(14:00) that was somehow more real than this and
+(14:04) I need to change my world I need to
+(14:07) change myself they engage in what la
+(14:11) Paul has called a transformative
+(14:12) experience what is also known as quantum
+(14:15) change a radical transformation of their
+(14:18) lives and we note we've got good
+(14:20) research now showing that they're right
+(14:24) their lives get better after these
+(14:27) awakening experiences I'm going to talk
+(14:32) about that in depth and dare I say it
+(14:35) maybe we can bring all of this together
+(14:37) and actually propose and and maybe some
+(14:42) people will be affronted by this but
+(14:44) propose a scientific a cognitive
+(14:47) scientific account of what enlightenment
+(14:49) is and why it alleviates the suffering
+(14:53) from lack of meaning that is
+(14:55) particularly pertinent for us today but
+(14:58) has always been a perennial threat since
+(15:03) the axial revolution now that means of
+(15:08) course we're going to have to also talk
+(15:10) about topics that have connection with
+(15:12) the darker aspects as I said of
+(15:16) meaning-making
+(15:16) what's the connection because they're
+(15:18) deep and profound between this meaning
+(15:22) making that is so central and our
+(15:24) endemic capacity for self-deception for
+(15:29) soft
+(15:30) struction there's a reason why we are so
+(15:34) a wash in because is a
+(15:37) perennial threat to us self-deception is
+(15:41) endemic that means it'll be important to
+(15:46) talk about foolishness as something
+(15:49) different from ignorance ignorance is a
+(15:52) lack of knowledge foolishness is a lack
+(15:55) of wisdom foolishness is when your
+(15:57) capacity to engage your agency pursue
+(16:02) your goals is undermined and threatened
+(16:06) by the self-deception and the
+(16:09) self-destructive behavior that is like a
+(16:13) perennial vulnerability to your
+(16:15) cognition but what I'm gonna argue is
+(16:17) the very same machinery that makes you
+(16:19) so adaptively intelligent it's the same
+(16:22) machinery that makes you susceptible to
+(16:25) foolishness that will take us into some
+(16:28) of the topics that are relevant to
+(16:32) people's existential experience meaning
+(16:34) crisis topics like absurdity alienation
+(16:38) futility horror real horror most horror
+(16:45) movies aren't horror we'll talk about
+(16:47) what horror really is and what people
+(16:49) experience when they're actually
+(16:51) experiencing horror their sense of grip
+(16:53) on reality
+(16:54) is being undermined and people find that
+(16:59) as you can imagine terrifying we're
+(17:05) gonna talk about meaninglessness and why
+(17:09) and why more people experience this
+(17:12) state the state of despair and once we
+(17:19) do that right as we're moving into these
+(17:24) kinds of topics we will be moving
+(17:26) gradually from the historical account of
+(17:29) the origin of the meaning crisis will
+(17:32) give us some sense from the history of
+(17:36) what this meaning is but we'll be moving
+(17:38) into the cognitive scientific study
+(17:42) cognition the client recalled in a
+(17:44) scientific investigation of meaning and
+(17:46) meaning making look when people use this
+(17:50) word meaning it's a metaphor they mean
+(17:55) there's something in their life that is
+(17:59) analogous to how a sentence has meaning
+(18:03) the pieces fit together in some way they
+(18:08) make an impact on your cognition and
+(18:10) connect you to the world in some way
+(18:17) there's something about our lives that
+(18:19) is analogous to the way sentences have
+(18:24) meaning we have to unpack that metaphor
+(18:26) what why is the metaphor used and what
+(18:28) does the metaphor point to when we talk
+(18:31) about the meaning of our lives how is it
+(18:35) in fact it's some of the most meaningful
+(18:36) experiences people have are precisely
+(18:39) ones that are completely ineffable to
+(18:41) them that they can't put into words
+(18:43) what's going on we're gonna have to talk
+(18:45) about different kinds of knowing some of
+(18:48) them that have fallen off our cultural
+(18:51) radar precisely because of the meaning
+(18:53) crisis we tend to have reduced all of
+(18:57) the ways that the ancients talked about
+(18:59) how we know to one thing to know is to
+(19:04) have a special kind of belief and so we
+(19:10) are very belief centric which is why we
+(19:12) are so focused as a culture on
+(19:13) ideologies but it turns out that we're
+(19:16) gonna have to have a much more expanded
+(19:18) notion of what knowing means there is
+(19:21) much more to knowing that having
+(19:24) justified true beliefs there's the kind
+(19:27) of knowing that's involved in knowing
+(19:28) how to catch a baseball there's the kind
+(19:33) of knowing of what it is like to be
+(19:37) having this experience right now there's
+(19:40) the kind of knowing that is knowing what
+(19:45) it's like to be in something you're
+(19:48) participating in like a relationship
+(19:53) we have to talk about all of that now of
+(19:58) course some of you might be aware of
+(20:00) those other kinds of knowing because you
+(20:01) know how integral and important they are
+(20:03) to therapy which is another thing that
+(20:07) is booming in our culture part of why
+(20:09) it's booming is the meeting crisis part
+(20:11) of what's booming is because people seek
+(20:13) out therapy precisely because they're
+(20:14) trying to recover these lost kinds of
+(20:17) knowing the kinds of insight that is
+(20:22) needed the kind of transformation not of
+(20:24) your beliefs but of how you see things
+(20:27) your sense of self and your sense of
+(20:31) realness
+(20:32) have to be transformed often in therapy
+(20:35) that is why the psychedelics are so
+(20:38) important for therapeutic success
+(20:42) because they transfer they transform
+(20:43) these other kinds of knowing we're going
+(20:48) to talk about all of that this will give
+(20:50) us this will give us a structural
+(20:54) functional account of meaning what is
+(20:56) the structure of it what are its
+(20:58) cognitive processes what are its
+(20:59) cognitive mechanisms how do they
+(21:02) function how can they fall into
+(21:08) dysfunction we're going to have this
+(21:11) historical account and this structural
+(21:13) functional account and were going to
+(21:14) make them talk to each other they're
+(21:18) going to inform and constrain and enable
+(21:21) each other and from that dialogue what I
+(21:27) propose audacious as it might sound is a
+(21:31) real response to the meeting crisis an
+(21:36) awakening from the meaning crisis that's
+(21:39) what this series is about awakening from
+(21:43) the meaning crisis not in some
+(21:45) ideological fashion but in a profound
+(21:48) transformative and existential manner so
+(21:53) this is not something that I can do
+(21:55) simply because this is not a problem
+(21:58) for which there are simplistic answers
+(22:00) if anybody offers you an answer to this
+(22:02) crisis in an hour
+(22:05) I would wager that they are deceiving
+(22:09) you manipulating or they are on
+(22:11) themselves significantly self-deceived
+(22:14) there's a reason why we're stuck there's
+(22:16) a reason why this is hard this is a
+(22:18) complex and difficult thing we are
+(22:20) undertaking so this series is going to
+(22:24) be several videos long because I'm going
+(22:29) to carefully and I hope responsibly
+(22:31) build an argument to try and show how we
+(22:35) can awaken from the meaning crisis how
+(22:39) that meaning crisis interacts with the
+(22:41) mental health crisis how it interacts
+(22:42) with the environmental crisis how it
+(22:44) interacts with the socio-economic crisis
+(22:50) now this is my commitment to you I will
+(22:55) always do my best to offer rigorous
+(22:59) rational argumentation I will try my
+(23:03) best to give proper scholastic credit to
+(23:07) other people please understand that I'm
+(23:11) aware that I'm not and nobody should be
+(23:14) claiming to offer you the absolute
+(23:17) uncontested truth I'm gonna offer you
+(23:19) good arguments and good evidence but I
+(23:24) don't want this to be an academic series
+(23:27) I do my academic work and I'm proud of
+(23:29) it but this I want this to be for people
+(23:33) who are coming to this precisely because
+(23:36) of a genuine personal existential
+(23:40) interest so I will try to keep jargon
+(23:45) and technicalities to a minimum I will
+(23:48) have to introduce terms to you and I
+(23:51) hope to explain them carefully along the
+(23:54) way so my commitment to you is to I I
+(24:02) can't be unbiased that's that's not a
+(24:06) thing what I will try my best to do is
+(24:09) to present to you my arguments my
+(24:12) viewpoints and why I think they can be
+(24:17) understood to be highly plausible
+(24:20) so I want to start with how and why is
+(24:29) this meaning so so so much a part of our
+(24:34) humanity why is its own in to our
+(24:37) humanity so much and I think the thing
+(24:43) that we wanted we want to understand is
+(24:47) I have to start somewhere right and that
+(24:53) can be misleading because I think and
+(24:55) one of my my co-authors Philip missive
+(24:57) itch he this is something that he's good
+(24:59) concerned with right I think this is a
+(25:01) continuum question I think the deep
+(25:03) connections between meaning making and
+(25:04) cognition go deeply back into our
+(25:07) evolutionary heritage way before our
+(25:10) humanity but that's right so the fact
+(25:14) that I'm starting somewhere is not meant
+(25:16) to indicate that this is the absolute
+(25:18) starting point what I want to do is
+(25:20) point to a time when many people think
+(25:23) our humanity the kind of people we are
+(25:26) now came into form not fully like the
+(25:32) way it is now because of course there's
+(25:34) been lots of historical and cultural
+(25:36) processes but the kind of humanity that
+(25:39) we would recognize as us and how much
+(25:43) this was bound up with meaning making in
+(25:46) the way that I've been talking about so
+(25:48) this period is known as the Upper
+(25:50) Paleolithic transition it occurs around
+(25:56) 40,000 BCE
+(26:00) now with interesting about this is that
+(26:03) biologically as a species we had existed
+(26:06) much longer than this we existed about
+(26:09) you know it's a there's some controversy
+(26:12) around this but conservatively since
+(26:15) about 200,000 BCE but around again
+(26:21) roughly 40,000 BCE there's a change a
+(26:26) radical change now again picking a
+(26:31) Pacific time
+(26:33) look like there's this there's nothing
+(26:34) before there are no precursors some
+(26:37) people have presented the upper
+(26:38) paleolithic transition that way I'm not
+(26:40) doing that I think that's a mistake
+(26:42) there's a continuum you can see it back
+(26:44) but at some point there's this radical
+(26:47) change the upper paleolithic transition
+(26:50) you see things human beings doing things
+(26:52) they're not doing before they're making
+(26:55) art they're making representational art
+(26:58) they're making sculpture they're making
+(27:02) cave paintings we have good evidence
+(27:04) they start making music what else are
+(27:09) they doing well we have some pretty good
+(27:15) evidence all right that there's
+(27:18) significant enhancement in their
+(27:20) cognition how do we know this well we
+(27:26) have the first use of calendars
+(27:29) obviously not with numbers and dates
+(27:32) because numeracy hasn't been invented
+(27:33) but you have the symbolic representation
+(27:36) of the phases of the Moon and the
+(27:38) passage of days and so human beings are
+(27:41) keeping track of time across very
+(27:44) abstract patterns so that they can
+(27:46) enhance their hunting abilities
+(27:50) something else is happening which again
+(27:54) it's so intrinsic to our humanity we
+(27:57) right we're developing projectile
+(28:01) weapons we're developing projectile
+(28:04) weapons so the Neanderthals who are
+(28:07) contemporaneous with Homo sapiens at
+(28:10) this time don't have projectile weapons
+(28:13) their spears are thick shafted heavy
+(28:16) stone they're thrusting tools we know
+(28:19) that they were getting in close to their
+(28:22) quarry because they have bone damage
+(28:25) that's similar to the kind of bone
+(28:27) damage we see in human beings who are
+(28:28) involved in cowboy rodeos where you're
+(28:32) messing around with large angry mammals
+(28:35) the Homo sapiens do something different
+(28:38) they start to develop very thin Spears
+(28:42) not with stone tips but with bone tip
+(28:45) and bone is much harder to
+(28:46) use the point about these is right there
+(28:50) very good is projectile weapons they're
+(28:52) very light and human beings develop the
+(28:55) spear thrower and sling and they start
+(28:57) to develop the ability to carry multiple
+(28:59) missiles and project them at a long
+(29:02) distance now that requires right
+(29:07) increased development of your frontal
+(29:09) lobe area which is going to turn out to
+(29:14) be of course very important as we'll see
+(29:16) for enhancing your intelligence think
+(29:20) about how deep this is in your cognition
+(29:21) this idea of like throwing right right
+(29:26) think about how you talk about how you
+(29:28) have a project that you're working on
+(29:30) right project it's from your throwing or
+(29:36) people will talk about oh they're over
+(29:38) there there's an object that means
+(29:40) thrown against or I'm the subject that
+(29:46) means thrown under all day long
+(29:49) cognitively you're throwing that's
+(29:52) because this throwing task is such a
+(29:56) complex task I mean we take it so
+(29:58) trivial that you know there's a moving
+(30:00) target and I throw something I can hit
+(30:02) it but if you try and build artificial
+(30:04) intelligence to do that as the military
+(30:06) is discovered that turns out to be a
+(30:07) really really hard problem so there's
+(30:10) the projectile weapons are developing
+(30:11) the kolender --ax the music the
+(30:14) sculpture the paintings all right what's
+(30:18) going on why is all of this stuff
+(30:19) exploding now notice how all of this is
+(30:24) associated with different aspects of
+(30:26) what we mean by meaning obviously
+(30:29) there's art and there's music that's
+(30:31) somehow meaningful but there's also time
+(30:35) as being made more meaningful it's being
+(30:37) measured and understood and calendars
+(30:39) and even time and space are now more
+(30:41) meaningful because they're being used
+(30:43) right in this highly dynamic way in
+(30:46) projectile weaponry so what's going on
+(30:54) why did it occur
+(30:58) well there's a lot of good work done by
+(31:02) this David Lewis Williams mattress a
+(31:05) nose work in his book super natural
+(31:07) selection I think is superlative his
+(31:10) articles like did meditating make us
+(31:12) human I got the pleasure of meeting Matt
+(31:16) and he argues for what's going on at
+(31:20) this time is a radical change in human
+(31:24) cognition that's in line with the work
+(31:27) of other people like Michael Winckelmann
+(31:29) we know that before the upper
+(31:32) paleolithic transition about 30,000 up
+(31:38) to 60,000 or 70,000 times of what this
+(31:42) might be happening we know that we went
+(31:44) through a near extinction event human
+(31:47) beings almost went extinct we were
+(31:50) crunched down they think maybe to
+(31:53) maximum of 10,000 individuals we'd
+(31:56) almost died off part of it seems to been
+(32:00) the overall climactic change of the end
+(32:02) of the last ice age in Africa part of it
+(32:06) there's a supervolcano that goes off
+(32:08) around 70,000 years ago
+(32:09) not sure but what happens is there's
+(32:11) tremendous pressure put on human beings
+(32:14) they move to the coasts in general to
+(32:17) try and survive but human beings seem to
+(32:22) have adopted a interesting response to
+(32:25) this now first of all they diversify
+(32:28) their diet and blah blah blah blah
+(32:29) that's all important we'll talk about
+(32:31) that but what's really interesting is
+(32:34) that if the they don't come up so much
+(32:37) with a technological response because
+(32:40) climates too huge and on to poorly
+(32:43) understood they come up with a social
+(32:45) cognitive response what human beings do
+(32:48) is they start creating broader trading
+(32:50) networks you see because when you do
+(32:54) that you're not as subject to individual
+(33:00) environmental variation you have much
+(33:02) more resources both in terms of what
+(33:04) people can have what kind of discoveries
+(33:07) they're making
+(33:10) and so what happens is people start
+(33:13) forming these much broader trading
+(33:17) relationships now that's very
+(33:19) significant because it opens up the
+(33:21) scale at which human cognition has to
+(33:24) operate in an important way and human
+(33:28) beings plausibly responded by developing
+(33:31) things that we see now is pervasive they
+(33:33) developed a bunch of rituals and we're
+(33:35) going to talk a lot about why ritual and
+(33:37) so important for dealing with both the
+(33:43) environmental challenge and the enhanced
+(33:47) social network that they were creating
+(33:50) to deal with it by the way we're going
+(33:52) to talk about that a lot in this series
+(33:53) how your cognition is very much
+(33:55) participatory you participate in
+(33:57) distributed cognition large networks of
+(34:01) cognition meaning way before the
+(34:03) internet networked computers together
+(34:05) culture networked brains together in
+(34:09) order to provide some of our most
+(34:10) powerful problem-solving abilities so
+(34:15) what are the rituals ok so you need
+(34:18) various trading rituals because the the
+(34:21) thing you're doing now and again think
+(34:24) about how this you take this for granted
+(34:27) and living in a city it is the deep
+(34:29) presupposition of civilization you hang
+(34:32) around with strangers lots of them and
+(34:36) that's just like oh yeah well it's not
+(34:39) oh yeah that's a hard thing other
+(34:42) species don't do that so what's
+(34:47) happening is we're getting this shift
+(34:49) we're having to interact with people
+(34:51) that are not in our kinship group in our
+(34:55) hunter-gatherer group and we have to
+(34:58) form relationships with them so we start
+(35:02) to develop rituals too that have the
+(35:06) function of enhancing our ability to
+(35:08) come into communication and
+(35:10) relationships of trust for individuals
+(35:12) that we do not personally know you say
+(35:17) ok that's why you still do stuff that
+(35:20) makes no sense
+(35:22) you meet somebody like you do that you
+(35:24) stick out your hand and they grab it and
+(35:25) then they move it up and down right this
+(35:29) is the show you have no weapons
+(35:31) this is allow the person to touch you to
+(35:33) see if your hands are clammy or not
+(35:34) there's all kinds of intuitive stuff
+(35:36) going on I can feel how tense you are
+(35:38) most of us don't pay attention to this
+(35:40) stuff anymore but it's there when you
+(35:44) shake hands when you ask how are you now
+(35:48) again that has become trivial so we
+(35:50) don't want an answer how are you we
+(35:52) don't somebody starts answering you oh
+(35:54) no but originally that reflects
+(35:57) something because think about what
+(36:00) important skill has to be enhanced for
+(36:05) these rituals I have to be able to take
+(36:08) your perspective I have to know what's
+(36:11) going on in your mind I have to know how
+(36:14) you feel I have to be able to move from
+(36:17) a first person perspective to a third
+(36:20) person perspective really really well
+(36:22) because if I can't do that I'm not gonna
+(36:25) be able to trade with you now that
+(36:28) ability to take enhance perspective on
+(36:31) others especially people that you don't
+(36:34) know really means you have to develop
+(36:37) ability Daniel Siegel calls mind sight
+(36:39) the ability to pick up on other people's
+(36:42) mental states and here's the thing as
+(36:44) you start to increase your ability to
+(36:46) pick up on other people's mental states
+(36:47) you increase your ability to pick up on
+(36:50) your own mental states and that of
+(36:54) course is going to be part of the origin
+(36:55) of things like metacognition and
+(36:57) mindfulness now the next type of ritual
+(37:02) you need it goes in the other direction
+(37:05) the trade rituals is how I deal with
+(37:07) strangers the problem is now when I'm
+(37:09) starting to interact with all these
+(37:10) people right my commitment and loyalty
+(37:13) to my group is now more in question than
+(37:16) it used to be in the past it could be
+(37:18) taken for granted because you just were
+(37:19) with these people
+(37:20) and they were with you all the time but
+(37:21) now if you allow me the word there's
+(37:25) temptation from the stranger which of
+(37:27) course is now part of all of our myths
+(37:29) the way the stranger can come in and
+(37:32) tempt us
+(37:34) all right and so what do we do well we
+(37:37) we create initiation rituals rituals
+(37:41) that are designed to show right our
+(37:44) commitment to the group and those
+(37:48) rituals often require risk threat
+(37:52) sacrifice now our rituals our initiation
+(37:56) rituals have been very tamed down right
+(38:00) but if you look back back in time these
+(38:04) initiation rituals are often very
+(38:06) traumatic dramatic people are put into
+(38:09) situations in which they they might
+(38:12) experience tremendous pain or fear we'll
+(38:15) talk about some of these as we go
+(38:16) through this series so why like why make
+(38:20) somebody go through pain and fear
+(38:22) because if they go through pain and fear
+(38:25) that shows that they're really committed
+(38:27) to you they're really committed to your
+(38:29) group but what does that mean
+(38:34) cognitively what does it mean for what
+(38:36) how the mind gets trained you have to
+(38:38) really improve your ability to regulate
+(38:40) your emotion you have to really improve
+(38:44) your ability to do what's called
+(38:48) decentering
+(38:48) to let yourself right be in the hands of
+(38:52) other people a non egocentric
+(38:56) perspective because what's important now
+(38:59) is not it's not centered on you the
+(39:01) ritual centered on you but you through
+(39:04) the ritual are being centered on the
+(39:05) group so this is having again tremendous
+(39:10) impact on your cognition
+(39:18) now there's a third kind of ritual that
+(39:21) starts to emerge and it seems to have
+(39:25) picked up on these cognitive
+(39:31) enhancements that the trade rituals and
+(39:33) the initiation rituals bring so I need
+(39:35) to introduce an idea to you that's going
+(39:36) to become pervasive this is the notion
+(39:40) of exaptation exaptation now originally
+(39:50) this is an idea from biology but the
+(39:53) work of Michael Anderson has brought it
+(39:55) directly into understanding how the
+(39:58) brain operates how cognition operates
+(40:01) acceptation in biological terms is an
+(40:04) evolutionary mechanism so for example
+(40:08) I'm using my tongue now to speak okay
+(40:11) tongues did not evolve for speech if
+(40:14) they did all the animals that had
+(40:17) tongues would be speaking at you and
+(40:19) that'd be terrifying especially your cat
+(40:22) your cat talks to you I'm sure that
+(40:24) would be terrifying so what did tongues
+(40:28) evolved for they evolved to move food
+(40:31) around in your mouth they're very
+(40:32) flexible and they're poison detectors so
+(40:36) they have all these does your last
+(40:38) defense right for poison yeah right
+(40:41) so they have all of these nerve endings
+(40:42) so you have this highly sensitive highly
+(40:44) flexible muscle now just because of the
+(40:47) way we evolved this muscle is also in
+(40:51) the air passageway because evolution is
+(40:54) not an intelligent designer you use the
+(40:57) same tube for breathing and for food
+(40:58) very bad design but nevertheless that's
+(41:01) how it is so your tongue it can
+(41:02) interrupt your airflow flexible
+(41:05) sensitive muscle that can interrupt air
+(41:07) flow that's what I need for speech so
+(41:09) the tongue was exempted evolution didn't
+(41:11) have to make a speaking machine from
+(41:14) scratch it took something that evolved
+(41:17) for one purpose and was able to exact it
+(41:19) and use it for another so what Michael
+(41:24) and Anderson and others are arguing is
+(41:26) very often this is what the brain does
+(41:28) the brain will develop
+(41:30) and ISM a little machine a set of
+(41:33) cognitive processes for doing one thing
+(41:35) and then it will use how to learn how to
+(41:37) reuse that for something totally
+(41:39) different we're going to talk about that
+(41:41) repeatedly through this series so what
+(41:44) happens is that these enhance mental
+(41:48) abilities that are coming out of the
+(41:49) trading and initiation rich will seem to
+(41:51) be taken up into another set of rituals
+(41:54) exempted into that seemed to be also
+(41:57) pervasive these are shamanic rituals
+(42:01) these are shamanic rituals we know that
+(42:07) the ability to become aware of the mind
+(42:10) right to control the mind to control
+(42:14) your emotions or being trained as I said
+(42:16) we know that human beings just because
+(42:19) and we'll see more about this later
+(42:21) just because they're highly intelligent
+(42:23) creatures with sophisticated
+(42:25) consciousness seek out altered states of
+(42:28) consciousness in shamanism what you have
+(42:32) is you have a cultivated practice for
+(42:36) altering your state of consciousness
+(42:39) that taps into an X this enhanced mine
+(42:42) site this enhanced ability to manipulate
+(42:45) and control your mental state in your
+(42:47) emotional state now Michael Wingull
+(42:51) men's work shows that pervasive through
+(42:53) hunter-gatherer groups are right
+(42:56) shamanic individuals in fact the shaman
+(43:00) is such a pervasive historical figure
+(43:04) that I think you can make a good case
+(43:07) that it has become an archetypal figure
+(43:10) something like you know the wise old man
+(43:14) so Yoda and Merlin these are all
+(43:18) shamanic figures what we know about
+(43:23) shamanism is that they're the best
+(43:25) health care you're going to have for a
+(43:26) long time right and we'll talk about how
+(43:30) and why that's the case we know that if
+(43:33) you got a shaman in your group it's
+(43:34) going to help to reduce right discord
+(43:37) within your group it's going to enhance
+(43:39) your hunting abilities of your group now
+(43:43) I I'm a scientist I don't believe
+(43:44) any supernatural abilities or spirits or
+(43:47) things like that so I seek an alternate
+(43:50) and mattress a no and Michael
+(43:52) Winckelmann I seek an alternative
+(43:53) explanation of why are shamans so
+(43:56) effective what is going on and what I
+(44:00) want to talk about is how central
+(44:02) shamanism was to the Upper Paleolithic
+(44:06) transition because a plausible case can
+(44:10) be made that it's the advent of
+(44:11) shamanism that helps to explain how
+(44:13) human beings are capable of this sudden
+(44:16) explosion in their cognition this of
+(44:20) course the thesis is the thesis of
+(44:21) several people as I mentioned Michael
+(44:23) Winckelmann did Lewis Williams and
+(44:26) others mattress I know because here's
+(44:29) the issue
+(44:31) right it's not a hardware changed the
+(44:35) brain has already existed for a hundred
+(44:38) and sixty thousand years it's not
+(44:39) changing significantly during the Upper
+(44:41) Paleolithic transition it's much more
+(44:45) likely that it's not a hardware change
+(44:49) in the brain it's a software change in
+(44:50) how human beings are using the brain and
+(44:54) what part of what I want to argue is
+(44:55) that shamanism is probably playing a
+(44:57) significant role and that software
+(45:00) changed so now I need to introduce yet
+(45:03) one more other term and again this is
+(45:05) going to be important this is the idea
+(45:08) of a psycho technology
+(45:17) okay so technology means the systematic
+(45:20) use of a tool which is a tool right here
+(45:22) right the first thing to understand and
+(45:28) this is Andy Clarke's phrase you're a
+(45:30) natural born cyborg your brain has
+(45:32) evolved across several species to use
+(45:35) tools in fact when you start using a
+(45:38) tool even for a very short period of
+(45:40) time your brain will start to model it
+(45:42) as part of your body that is why you can
+(45:45) do weird things like when you're parking
+(45:47) your car you can feel where the edge of
+(45:49) your car is and all that sort of stuff
+(45:50) you're a natural-born cyborg you have
+(45:54) evolved to be integrated with machines
+(45:57) look at me I'm a cyborg look at this
+(46:00) around me the only thing that's natural
+(46:04) here biologically is naked me everything
+(46:08) else is a tool everything else is these
+(46:11) are tools
+(46:12) I wasn't born with clothing I used this
+(46:16) in order to modify my ability to move
+(46:18) through environments and carry stuff
+(46:20) around this is a tool this is a tool
+(46:22) this is a tool this is a tool these are
+(46:27) tools now what's interesting is that can
+(46:36) be accepted your brain's ability to
+(46:38) attach to a tool can move off of a
+(46:40) physical thing onto a cognitive thing so
+(46:47) a physical tool fits your biology C fits
+(46:53) your biology and enhances it right I can
+(46:56) leave permanent marks that I can't
+(46:58) otherwise do biologically on this board
+(47:00) I have a bottle it fits my hand and I
+(47:03) can carry liquids around if I had to
+(47:05) carry it like that's the amount of
+(47:06) liquid I can carry is minimal it fits
+(47:10) your biology and enhances it a psycho
+(47:11) technology fits your brain and enhances
+(47:16) how it operates and you say what are you
+(47:18) talking about what's this psycho tech
+(47:19) now look here's one right here
+(47:22) it's called literacy you're not born
+(47:27) literate you're born linguistic
+(47:30) you're born learning how to talk right
+(47:34) Noam Chomsky all that sort of thing but
+(47:36) you're not born literate in fact for
+(47:38) most of our history we were completely
+(47:40) illiterate
+(47:42) what does literacy do for you
+(47:45) it's a standard set of tools that
+(47:48) standardize how you process information
+(47:51) notice is how it enhances your cognition
+(47:54) I don't have to hold all these terms in
+(47:58) my mind I can leave them there on the
+(48:00) board I can write stuff down and come
+(48:06) back to it later so notice what I can do
+(48:08) I can take my brain now and link it to
+(48:11) my brain back then and my brain in the
+(48:13) future so those are I'm networking all
+(48:16) these instances together I'm improving
+(48:18) my cognition I can also network my brain
+(48:21) with your brain and improve my ability
+(48:26) to solve probably think of if I were to
+(48:28) do this to you I'm gonna take literacy
+(48:30) out of your brain right now and you
+(48:32) can't and I mean literacy in your head
+(48:34) too you can't imagine words you can't
+(48:39) put stuff on paper you can't reflect on
+(48:41) your own cognition I take that out of
+(48:43) you your brain is the same hardware but
+(48:48) then the problems you can solve collapse
+(48:51) down dramatically
+(48:52) that's what psycho technologies do they
+(48:55) do they enhance the software of your
+(49:01) mission of your cognitive machinery now
+(49:04) shamanism is a set of psycho
+(49:07) technologies for altering your state of
+(49:10) consciousness and enhancing your
+(49:12) cognition so what does
+(49:19) what does shamanism look like what are
+(49:21) the kinds of things you do when write
+(49:25) you're a shaman there are many people of
+(49:30) course claimed to be practicing
+(49:32) shamanism today and that's another thing
+(49:34) why this rise in neo shamanism what are
+(49:37) people thinking they're trying to get
+(49:39) from it okay so the shaman does a lot of
+(49:50) interesting things in order to get into
+(49:53) a particular state so the shaman will
+(50:00) often engage in things like sleep
+(50:02) deprivation intense long periods hours
+(50:08) of singing dancing chanting the shaman
+(50:14) will often engage in imitation put on
+(50:19) the clothing mask that represents some
+(50:22) other figures some other animal right
+(50:28) sometime the shaman will go into periods
+(50:30) of isolation social isolation go out
+(50:33) into the wilderness and of course
+(50:40) although it's not necessary but it has
+(50:43) been pervasive shamans will make use of
+(50:44) psychedelics in order to help bring
+(50:48) about an altered state of consciousness
+(50:53) so so
+(50:56) what's going on here Steve Taylor in his
+(51:01) book waking from sleep talks about these
+(51:03) disruptive strategies that people even
+(51:05) today use in order to try and bring
+(51:07) about what I called awakening
+(51:09) experiences these radical
+(51:11) transformations in people's sense of
+(51:14) self and reality we're going to talk
+(51:19) about that but one of the main ideas
+(51:25) here is what a shaman is typically doing
+(51:28) is trying to disrupt the normal ways in
+(51:33) which you're finding patterns in the
+(51:35) world why would you want to disrupt the
+(51:39) normal way you find patterns in the
+(51:41) world because the way you find patterns
+(51:44) and member I said this the very thing
+(51:46) that makes you adaptive also makes you
+(51:48) subject to self-deception the way you
+(51:52) find patterns right is very profound
+(51:56) so this is something I study as a
+(52:00) scientist right many of you may have
+(52:03) seen this all right so this is called
+(52:07) the nine dot problem you have to join
+(52:10) all nine dots with four straight lines
+(52:13) you have to start the next line from the
+(52:16) terminus of the previous line then what
+(52:17) people see this they initially say well
+(52:19) this is very easy of course I can do
+(52:21) this
+(52:22) right one two three four oh wait I
+(52:26) missed the middle dot okay one two three
+(52:29) wait one two wait one two and then they
+(52:33) pause this actually turns out to be a
+(52:36) very difficult problem for people to
+(52:37) solve joining all nine dots with four
+(52:40) straight lines but why is it hard one
+(52:42) line two lines three lines four lines
+(52:47) what was hard about that and when you do
+(52:50) that of course people get angry at you
+(52:52) they say you cheated you went outside
+(52:54) the box you went outside the square
+(52:57) that's where think outside the box comes
+(52:59) from now why that was hard is because
+(53:04) you projected a pattern here
+(53:07) the square and then you engaged
+(53:12) unconsciously unconsciously your skills
+(53:17) of connecting the dots when you were a
+(53:18) kid you connected the dots and when you
+(53:21) connect the dots you're not supposed to
+(53:22) do this make a non dot turn you do that
+(53:26) you won't get a picture of a picnic
+(53:27) table you'll get like an acid trip
+(53:29) psychedelic thing right so unconsciously
+(53:35) you project a pattern and then you
+(53:38) activate the appropriate skills and then
+(53:41) you're locked and you're blocked you
+(53:44) can't solve that problem not because of
+(53:45) anything there in the data but because
+(53:48) of the way you have framed it you have
+(53:50) to disrupt your framing we're gonna talk
+(53:53) a lot about that in order to get an
+(53:55) insight in order to get an insight now
+(53:58) let me tell you something again to start
+(54:01) to introduce this to you saying to
+(54:04) people think outside the box and this is
+(54:07) kind of funny if you think about it
+(54:08) saying to people think outside the box
+(54:10) does not help them with this problem
+(54:13) giving them the belief that they have to
+(54:16) go outside the box does not help them to
+(54:20) solve this problem that's what I meant
+(54:23) when I said you shouldn't reduce all of
+(54:25) your sense of knowing to believing
+(54:30) what's involved here is not believing
+(54:33) that you have to go outside the box it's
+(54:36) knowing how to go outside the box how to
+(54:42) alter your attention how do you change
+(54:46) your perspective on what's so what's
+(54:49) salient to you what's relevant how to
+(54:52) alter what's important or real to you
+(54:56) now what shamanism is is it's a set of
+(55:01) practices disruptive practices and
+(55:04) attentional practices that are designed
+(55:07) to disrupt everyday framing so that the
+(55:12) shaman can get enhanced insight well now
+(55:15) what kind of insight insight into
+(55:17) patterns in the environment
+(55:20) that other people might not be picking
+(55:22) up on enhanced insight mine site into
+(55:26) other people and and and here's this
+(55:31) that the sense of participatory knowing
+(55:33) that I mentioned when the shaman is
+(55:35) enacting the animal the shaman isn't
+(55:37) having beliefs about the deer the shaman
+(55:40) is becoming the deer I don't mean
+(55:43) metaphysically but the shaman is trying
+(55:45) to get together the sense of the skills
+(55:48) the way the kind of perspective the deer
+(55:52) has the way the deer thinks the kind of
+(55:54) world the deer lives in and by becoming
+(55:58) the deer by having this participatory
+(56:00) knowing of what it is to be a deer it
+(56:02) enhances the ability to track and find
+(56:04) the deer now these enhanced capacities
+(56:08) for insight and mindsight participatory
+(56:13) knowing means the shaman combines a lot
+(56:17) of things that are for us in separate
+(56:18) individuals shamans are highly
+(56:19) charismatic imagine if you could take a
+(56:25) rock star like a super rock star a super
+(56:30) therapist a super artist put them all in
+(56:34) one individual and then they come to you
+(56:35) when you're sick they can enhance your
+(56:41) ability to trigger your own placebo
+(56:45) effect the placebo effect is real 30 to
+(56:49) 40 percent of all real medication the
+(56:51) ones we sell as real drugs is placebo
+(56:55) effect if you have an individual can
+(56:58) they can trigger that and that's all you
+(57:00) have at that time that's still thirty to
+(57:03) forty two percent better than you had
+(57:05) before see so what are the shamans doing
+(57:14) notice what they're doing they're really
+(57:17) enhancing their capacity for cognition
+(57:21) now what we're going to do in the next
+(57:24) video
+(57:24) is we're going to come back to the
+(57:26) shamans we're going to talk more about
+(57:28) what they're doing how they're enhancing
+(57:33) their cognition and why this played such
+(57:36) an important role in making human beings
+(57:38) into the kind of meaning makers there
+(57:40) are but we'll see what it is right but
+(57:44) you can see already notice in order to
+(57:47) tap into all these kinds of knowings in
+(57:50) order to bring about this altered state
+(57:52) of consciousness notice how much that
+(57:54) shaman is manipulating the meaning of
+(57:57) things which isn't the same thing as
+(58:00) being a charlatan so we're starting to
+(58:05) see right from the beginning the
+(58:07) connections between meaning making
+(58:09) altered states of consciousness and
+(58:11) enhanced capacity to be in touch with
+(58:15) the world and then what's the connection
+(58:17) to wisdom the word shaman means one who
+(58:21) knows one who sees one who has insight
+(58:26) shamans are considered wise people and
+(58:30) that's what you know that's why we have
+(58:33) all these words that the word wizard
+(58:35) means a wise person okay so that's it
+(58:42) for our first video and get a sense from
+(58:46) this of how we're going to proceed thank
+(58:52) you very much for your time
+(58:54) [Music]
+(59:11) you
+(59:12) [Music]
